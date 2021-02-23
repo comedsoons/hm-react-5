@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/hm-react-5/static/js/main.5978973c.chunk.js",
+    "main.js.map": "/hm-react-5/static/js/main.5978973c.chunk.js.map",
+    "runtime-main.js": "/hm-react-5/static/js/runtime-main.589c0f58.js",
+    "runtime-main.js.map": "/hm-react-5/static/js/runtime-main.589c0f58.js.map",
+    "static/js/2.b62b07dd.chunk.js": "/hm-react-5/static/js/2.b62b07dd.chunk.js",
+    "static/js/2.b62b07dd.chunk.js.map": "/hm-react-5/static/js/2.b62b07dd.chunk.js.map",
+    "index.html": "/hm-react-5/index.html",
+    "static/js/2.b62b07dd.chunk.js.LICENSE.txt": "/hm-react-5/static/js/2.b62b07dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.589c0f58.js",
+    "static/js/2.b62b07dd.chunk.js",
+    "static/js/main.5978973c.chunk.js"
+  ]
+}
