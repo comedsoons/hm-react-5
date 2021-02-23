@@ -12,11 +12,11 @@ const Menu = ({firstElement, secondElement, thirdElement, link}) => (
   </nav>
 );
 ReactDOM.render (
-<Menu
-firstElement="Перший елемент списку"
-secondElement="Другий елемент списку"
-thirdElement="Google"
-link="https://www.google.com.ua/"
-/>,
-document.getElementById("root")
+  <Menu
+    firstElement="Перший елемент списку"
+    secondElement="Другий елемент списку"
+    thirdElement="Google"
+    link="https://www.google.com.ua/"
+  />,
+  document.getElementById("root")
 );
